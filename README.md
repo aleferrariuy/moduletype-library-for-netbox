@@ -1,5 +1,5 @@
 # Moduletype library for netbox
-### Different types of modular devices that can be imported from NetBox.
+### Different types of modular device types definitions that can be imported from NetBox.
 ---
 
 Each modular device is declared in a YAML file.
